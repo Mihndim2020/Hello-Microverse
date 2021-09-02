@@ -1,8 +1,9 @@
 * {
   box-sizing: border-box;
 }
+
 body {
-  background-color: #6F23FF;
+  background-color: #6f23ff;
   color: white;
   margin: 2rem 10rem;
 }
@@ -15,7 +16,8 @@ body {
   font-size: 1.2rem;
 }
 
-.header-right, ul {
+.header-right,
+ul {
   display: flex;
   align-items: center;
 }
