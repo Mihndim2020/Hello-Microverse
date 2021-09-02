@@ -43,3 +43,20 @@ ul a {
   border: 0;
   border-radius: 4px;
 }
+
+h1 {
+  font-size: 4rem;
+  padding-top: 2rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+.content {
+  font-size: 1.7rem;
+}
+
+.bolded {
+  font-weight: 900;
+}
