@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #6F23FF;
+  color: white;
+  margin: 2rem 10rem;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1.2rem;
+}
+
+.header-right, ul {
+  display: flex;
+  align-items: center;
+}
+
+ul li {
+  list-style: none;
+  padding-right: 2rem;
+}
+
+ul a {
+  color: white;
+  text-decoration: none;
+}
+
+.apply-button1 {
+  background-color: #ffd540;
+  color: #3e3e3e;
+  text-align: center;
+  letter-spacing: normal;
+  font-size: 1rem;
+  font-weight: 800;
+  max-width: 250px;
+  height: 3rem;
+  padding: 1rem;
+  border: 0;
+  border-radius: 4px;
+}
